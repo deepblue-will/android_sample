@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Chat</string>
+  <string name="action_settings">Settings</string>
+  <string name="hello">Hello</string>
+  <string name="send">SEND</string>
+  <string name="good">Good.</string>
+  <string name="action_voice_input">Voice input</string>
+</resources>

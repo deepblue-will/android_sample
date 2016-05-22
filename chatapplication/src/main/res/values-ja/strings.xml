@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">おしゃべり</string>
+  <string name="action_settings">設定</string>
+  <string name="hello">こんにちわ</string>
+  <string name="send">送信</string>
+  <string name="good">それはいいですね</string>
+  <string name="action_voice_input">音声入力</string>
+</resources>
